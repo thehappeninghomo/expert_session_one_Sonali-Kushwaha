@@ -8,4 +8,5 @@
 1. Clone the github repository in your computer. ```git clone https://github.com/thehappeninghomo/expert_session_one_Sonali-Kushwaha.git```
 2. Run ```dataDevising.ipynb``` file which will create two json files in dataKeeper folder.
 3. Run ```dataOperating.ipynb``` file to search for player names in the dataKeeper.
+4. Thanks and Regards :)
 
